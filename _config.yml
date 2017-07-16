@@ -1,0 +1,19 @@
+title: Pigdev Studio
+email: henriquecampos@pigdev.studio
+description: > # this means to ignore newlines until "baseurl:"
+  Pigdev Studio is an indie game design and development studio
+  made currently by a solo ancap  game designer.
+  The studio stands for free initiatives as stated by GNU .
+  That means our players are able to run, study, change and
+  redistribute copies of our games with or without changes
+  and at any price.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: pigdevstudio
+github_username:  pigdevstudio
+itchio_username: pigdevstudio #this isn't used for on the icon-itchio.html link
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+theme: minima
